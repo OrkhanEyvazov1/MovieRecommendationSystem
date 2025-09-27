@@ -1,0 +1,6 @@
+# requirements.txt
+
+gradio
+catboost
+numpy
+pandas
