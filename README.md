@@ -1,1 +1,1 @@
-Hello ,There.This is movie recommendation project based on predicting rating indivually
+Greetings. This project focuses on recommending movies by predicting individual ratings.
