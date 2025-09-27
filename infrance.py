@@ -1,7 +1,7 @@
 import pickle
 import numpy as np
 
-model= pickle.load(open('mo.pkl', 'rb'))
+model= pickle.load(open('catboost_model.pkl', 'rb'))
 
 def inference(user_data):
     # Dummy inference functionexit
